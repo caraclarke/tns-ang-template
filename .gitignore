@@ -1,0 +1,14 @@
+/dist
+/tmp
+
+/node_modules
+/bower_components
+
+/typings
+npm-debug.log
+
+.DS_Store
+Thumbs.db
+
+/e2e/*.js
+/e2e/*.map
